@@ -4,7 +4,7 @@ Welcome to my repository for the CodSoft Web Development Internship (Level 1). T
 ## ✅ Task 1 – Personal Portfolio
 A responsive portfolio website designed to showcase my skills, projects, and contact information. Built using HTML and CSS and JavaScript.
 
-####  🔗 Live Demo: [Click Here]()
+####  🔗 Live Demo: [Click Here](https://github.com/ShitalYadav18/CODSOFT/tree/main/Task-1/Portfolio%20website)
 ---
 ## ✅ Task 2 – Landing Page
 A professional landing page built with  HTML and styled using pure CSS. It includes about, skill, and contact sections.
