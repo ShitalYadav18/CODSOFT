@@ -9,7 +9,7 @@ A responsive portfolio website designed to showcase my skills, projects, and con
 ## ✅ Task 2 – Landing Page
 A professional landing page built with  HTML and styled using pure CSS. It includes about, skill, and contact sections.
 
-####  🔗 Live Demo: [Click Here]()
+####  🔗 Live Demo: [Click Here](https://github.com/ShitalYadav18/CODSOFT/tree/main/Task-2)
 ---
 ## ✅ Task 3 – Basic Calculator
 A simple calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations. 
