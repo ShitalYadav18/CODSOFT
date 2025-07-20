@@ -14,7 +14,7 @@ A professional landing page built with  HTML and styled using pure CSS. It inclu
 ## ✅ Task 3 – Basic Calculator
 A simple calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations. 
 
-####  🔗 Live Demo: [Click Here]()
+####  🔗 Live Demo: [Click Here](https://github.com/ShitalYadav18/CODSOFT/tree/main/Task-3)
 ---
 ### 🛠 Technologies Used
 - HTML5
